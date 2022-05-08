@@ -17,6 +17,7 @@ namespace CsharpBasicCorePrograms
             SwapNumber swap = new SwapTwo();
             swap.SwapTwo();
             EvenOdd.Number();
+            Vowel_Consonent.Alphabet();
             Console.ReadLine();
         }
     }
