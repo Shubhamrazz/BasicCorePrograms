@@ -10,6 +10,8 @@ namespace CsharpBasicCorePrograms
             FlipCoin.CoinFlipCount();
             LeapYear.Leap();
             PowerOfTwo.CalcuOfPower();
+            HarmonicNumber harmonic = new CalHarmonicSeries();
+            harmonic.CalHarmonicSeries();
             Console.ReadLine();
         }
     }
