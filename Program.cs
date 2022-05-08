@@ -14,6 +14,8 @@ namespace CsharpBasicCorePrograms
             harmonic.CalHarmonicSeries();
             Factors.Fac();
             Quotient_Remainder.Logic();
+            SwapNumber swap = new SwapTwo();
+            swap.SwapTwo();
             Console.ReadLine();
         }
     }
