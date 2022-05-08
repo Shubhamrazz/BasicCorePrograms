@@ -18,6 +18,7 @@ namespace CsharpBasicCorePrograms
             swap.SwapTwo();
             EvenOdd.Number();
             Vowel_Consonent.Alphabet();
+            LargestAmongestThree.Number();
             Console.ReadLine();
         }
     }
