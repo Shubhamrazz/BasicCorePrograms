@@ -13,6 +13,7 @@ namespace CsharpBasicCorePrograms
             HarmonicNumber harmonic = new CalHarmonicSeries();
             harmonic.CalHarmonicSeries();
             Factors.Fac();
+            Quotient_Remainder.Logic();
             Console.ReadLine();
         }
     }
