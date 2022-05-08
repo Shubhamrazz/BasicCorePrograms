@@ -12,6 +12,7 @@ namespace CsharpBasicCorePrograms
             PowerOfTwo.CalcuOfPower();
             HarmonicNumber harmonic = new CalHarmonicSeries();
             harmonic.CalHarmonicSeries();
+            Factors.Fac();
             Console.ReadLine();
         }
     }
