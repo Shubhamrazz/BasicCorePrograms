@@ -9,6 +9,7 @@ namespace CsharpBasicCorePrograms
             Console.WriteLine("Basic Core Programs");
             FlipCoin.CoinFlipCount();
             LeapYear.Leap();
+            PowerOfTwo.CalcuOfPower();
             Console.ReadLine();
         }
     }
