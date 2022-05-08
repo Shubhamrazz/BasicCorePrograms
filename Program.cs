@@ -8,6 +8,7 @@ namespace CsharpBasicCorePrograms
         {
             Console.WriteLine("Basic Core Programs");
             FlipCoin.CoinFlipCount();
+            LeapYear.Leap();
             Console.ReadLine();
         }
     }
