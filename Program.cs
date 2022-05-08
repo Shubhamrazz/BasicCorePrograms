@@ -16,6 +16,7 @@ namespace CsharpBasicCorePrograms
             Quotient_Remainder.Logic();
             SwapNumber swap = new SwapTwo();
             swap.SwapTwo();
+            EvenOdd.Number();
             Console.ReadLine();
         }
     }
